@@ -9,7 +9,7 @@ Understand how sales, customers, payments, reviews, and delivery perform on the 
 MySQL (data cleaning, flat table, KPIs), Power BI (flat table and dashboard)
 
 ## Dataset
-- Brazilian E-Commerce Public Dataset by Olist, 2016–2018
+- Brazilian E-Commerce Public Dataset by Olist, 2016–2018 , Provided by ExcelR.
 - 9 tables loaded (geolocation was loaded but not used in the KPIs), 8 joined into one flat table
 - 99,441 orders and 112,650 order items
 - Grain of the flat table: 1 row = 1 order item
